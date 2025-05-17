@@ -111,7 +111,7 @@ body {
 
 
 /* 모바일 기기일 때 해당 css 적용 */
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 479px) {
     .login-box {
         width: 90%;
         padding: 20px;
